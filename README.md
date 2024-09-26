@@ -8,3 +8,7 @@ Future Updates:
 - nano, text editor functionality
 - separate window
 - ssh
+- compile to executable binary
+- add instructions to repo
+
+
